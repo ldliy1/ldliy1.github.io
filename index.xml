@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ldliy1</title>
-    <link>http://example.org/</link>
+    <link>https://ldliy1.github.io/</link>
     <description>Recent content on ldliy1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:36:39 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ldliy1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>VIM</title>
-        <link>http://example.org/docs/tools/vim/</link>
+        <link>https://ldliy1.github.io/docs/tools/vim/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
         
-        <guid>http://example.org/docs/tools/vim/</guid>
+        <guid>https://ldliy1.github.io/docs/tools/vim/</guid>
         <description>Markdown here</description>
       </item>
       
