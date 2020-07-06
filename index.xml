@@ -15,6 +15,16 @@
     
       
       <item>
+        <title>Firefox</title>
+        <link>https://ldliy1.github.io/docs/tools/firefox/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
+        
+        <guid>https://ldliy1.github.io/docs/tools/firefox/</guid>
+        <description>Notes Following notes are from Firefox setup I use on my Manjaro (Gnome)
+ Change config items with about:config on the address bar Find out config changes that have been changed with about:support (scroll down to Important Modified Preferences)  Addins  Bitwarden Dark Reader Privacy Badger uBlock Origin Vimium Gnome Shell Integration  Tweaks/Fixes  Fix: YouTube freezing most times a video was full screened, as well as poor performance on 4k+ video playback  Made following config changes through about:config accessibility.</description>
+      </item>
+      
+      <item>
         <title>VIM</title>
         <link>https://ldliy1.github.io/docs/tools/vim/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
